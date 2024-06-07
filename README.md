@@ -1,2 +1,2 @@
 # CODSOFT
-This repository contains the projects I have worked on during my Internship at CodSoft.
+This repository contains the projects I have made during my Internship at CodSoft.
